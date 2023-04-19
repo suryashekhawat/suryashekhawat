@@ -7,3 +7,6 @@ In my previous roles, I have worked on complex projects that required me to coll
 I possess excellent analytical and problem-solving skills, with the ability to quickly adapt to changing requirements and deliver high-quality code within tight deadlines. Additionally, I have a strong understanding of software development methodologies and practices, including Agile.
 
 
+open to work:
+
+drop me email for offers here sing.shekhawat67@gmail.com
