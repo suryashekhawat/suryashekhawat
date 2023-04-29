@@ -9,7 +9,7 @@ I possess excellent analytical and problem-solving skills, with the ability to q
 
 open to work:
 
-drop me email for offers here sing.shekhawat67@gmail.com
+sing.shekhawat67@gmail.com
 
 <h2>Open source projects</h2>
 <table align="center">
