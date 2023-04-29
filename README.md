@@ -10,3 +10,9 @@ I possess excellent analytical and problem-solving skills, with the ability to q
 open to work:
 
 drop me email for offers here sing.shekhawat67@gmail.com
+
+
+<h2>Trophies</h2>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-dulaimi" alt="omar-dulaimi" /></a>
+</p>
