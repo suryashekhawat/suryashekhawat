@@ -24,7 +24,7 @@ drop me email for offers here sing.shekhawat67@gmail.com
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/omar-dulaimi/prisma-schema-sorter"><b>Learn With Guruji</b></a></td>
+      <td><a href="https://github.com/learnwithguruji/guruji-client"><b>Learn With Guruji</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/learnwithguruji/guruji-client?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/learnwithguruji/guruji-client?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/learnwithguruji/guruji-client?style=flat-square&labelColor=343b41"/></td>
