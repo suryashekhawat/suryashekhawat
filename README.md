@@ -14,5 +14,15 @@ drop me email for offers here sing.shekhawat67@gmail.com
 
 <h2>Trophies</h2>
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-dulaimi" alt="omar-dulaimi" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryashekhawat" alt="suryashekhawat" /></a>
+</p>
+
+<h2>Where to find me</h2>
+<p>
+  <a href="https://github.com/suryashekhawat" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/spss" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
