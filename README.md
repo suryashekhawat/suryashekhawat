@@ -11,7 +11,27 @@ open to work:
 
 drop me email for offers here sing.shekhawat67@gmail.com
 
-
+<h2>Open source projects</h2>
+<table align="center">
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/omar-dulaimi/prisma-schema-sorter"><b>Learn With Guruji</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/learnwithguruji/guruji-client?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/learnwithguruji/guruji-client?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/learnwithguruji/guruji-client?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/learnwithguruji/guruji-client?style=flat-square&labelColor=343b41"/>       </td>
+    </tr>
+   </tbody>
+<table>
 <h2>Trophies</h2>
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryashekhawat" alt="suryashekhawat" /></a>
